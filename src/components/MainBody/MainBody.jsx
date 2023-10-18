@@ -1,18 +1,19 @@
 import React from "react";
 import './MainBody.css'
+import Circle from "./Circle/Circle";
 
 const MainBody = () => {
     return (
         <div className="MainBodyDiv">
             <div className="FirstCard">
                 <div className="firstflex">
-                    <div>
+                    <div className="textdivbody">
                         <h2>overview</h2>
                         <p>Montly Earning</p>
                     </div>
                     <div>
                         <label htmlFor="dropdown"></label>
-                        <select name="dropdown" id="dropdown">
+                        <select name="dropdown" id="dropdown" className="selectoptionbody">
                             <option value="Quaterly">Quaterly</option>
                         </select>
                     </div>
@@ -70,7 +71,11 @@ const MainBody = () => {
                 </div>
             </div>
             <div className="SecondCard">
-
+                         <h1>Customers</h1> 
+                         <p>Customers that buy product</p>                        
+                         <div className="CircleDiv">
+                         <Circle/>
+                         </div>
             </div>
         </div>
     )
