@@ -1,0 +1,162 @@
+.firstflex{
+    display: flex;
+    justify-content: space-between;
+}
+.MainBodyDiv{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1%;
+}
+.FirstCard{
+    width: 55%;
+    background-color: white;
+}
+.SecondCard{
+    width: 30%;
+}
+.barDiv{
+    display: flex;
+    justify-content: space-around;
+}
+.columnDiv1{
+    border: 1px solid black;
+    height: 6rem;
+    width: 2rem;
+    border-radius: .5rem;
+    margin-top: 4rem;
+    border-color: rgb(232, 233, 233);
+    background-color: rgb(232, 233, 233);
+}
+.columnDiv1:hover{
+    background-color: rgb(0, 0, 163);
+}
+.columnDiv2{
+    border: 1px solid black;
+    height: 5rem;
+    width: 2rem;
+    border-radius: .5rem;
+    margin-top: 5rem;
+    border-color: rgb(232, 233, 233);
+    background-color: rgb(232, 233, 233);
+}
+.columnDiv3{
+    border: 1px solid black;
+    height: 10rem;
+    width: 2rem;
+    border-radius: .5rem;
+    border-color: rgb(232, 233, 233);
+    background-color: rgb(232, 233, 233);
+}
+.columnDiv4{
+    border: 1px solid black;
+    height: 7rem;
+    width: 2rem;
+    border-radius: .5rem;
+    margin-top: 3rem;
+    border-color: rgb(232, 233, 233);
+    background-color: rgb(232, 233, 233);
+}
+.columnDiv5{
+    border: 1px solid black;
+    height: 7.8rem;
+    width: 2rem;
+    border-radius: .5rem;
+    margin-top: 2.2rem;
+    border-color: rgb(232, 233, 233);
+    background-color: rgb(232, 233, 233);
+}
+.columnDiv6{
+    border: 1px solid black;
+    height: 4rem;
+    width: 2rem;
+    border-radius: .5rem;
+    margin-top: 6rem;
+    border-color: rgb(232, 233, 233);
+    background-color: rgb(232, 233, 233);
+}
+.columnDiv7{
+    border: 1px solid black;
+    height: 7.8rem;
+    width: 2rem;
+    border-radius: .5rem;
+    margin-top: 2.2rem;
+    border-color: rgb(232, 233, 233);
+    background-color: rgb(232, 233, 233);
+}
+.columnDiv8{
+    border: 1px solid black;
+    height: 10rem;
+    width: 2rem;
+    border-radius: .5rem;
+    border-color: rgb(232, 233, 233);
+    background-color: rgb(232, 233, 233);
+}
+.columnDiv9{
+    border: 1px solid black;
+    height: 8rem;
+    width: 2rem;
+    border-radius: .5rem;
+    margin-top: 2rem;
+    border-color: rgb(232, 233, 233);
+    background-color: rgb(232, 233, 233);
+}
+.columnDiv10{
+    border: 1px solid black;
+    height: 7rem;
+    width: 2rem;
+    border-radius: .5rem;
+    margin-top: 3rem;
+    border-color: rgb(232, 233, 233);
+    background-color: rgb(232, 233, 233);
+}
+.columnDiv11{
+    border: 1px solid black;
+    height: 6.5rem;
+    width: 2rem;
+    border-radius: .5rem;
+    margin-top: 3.5rem;
+    border-color: rgb(232, 233, 233);
+    background-color: rgb(232, 233, 233);
+}
+.columnDiv12{
+    border: 1px solid black;
+    height: 7.5rem;
+    width: 2rem;
+    border-radius: .5rem;
+    margin-top: 2.5rem;
+    border-color: rgb(232, 233, 233);
+    background-color: rgb(232, 233, 233);
+}
+.columnDiv2:hover{
+    background-color: rgb(0, 0, 163);
+}
+.columnDiv3:hover{
+    background-color: rgb(0, 0, 163);
+}
+.columnDiv4:hover{
+    background-color: rgb(0, 0, 163);
+}
+.columnDiv5:hover{
+    background-color: rgb(0, 0, 163);
+}
+.columnDiv6:hover{
+    background-color: rgb(0, 0, 163);
+}
+.columnDiv7:hover{
+    background-color: rgb(0, 0, 163);
+}
+.columnDiv8:hover{
+    background-color: rgb(0, 0, 163);
+}
+.columnDiv9:hover{
+    background-color: rgb(0, 0, 163);
+}
+.columnDiv10:hover{
+    background-color: rgb(0, 0, 163);
+}
+.columnDiv11:hover{
+    background-color: rgb(0, 0, 163);
+}
+.columnDiv12:hover{
+    background-color: rgb(0, 0, 163);
+}

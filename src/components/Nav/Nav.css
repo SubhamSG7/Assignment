@@ -1,0 +1,129 @@
+@media screen and (max-width:768px){
+    .NavImages{
+        width: 2rem;
+        height: 1.5rem;
+        color: white;
+        border-radius: .2rem;
+    }
+    .NavgroupDiv{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: .2rem;
+        color: white;
+    }
+    .NavgroupDiv:hover{
+        margin: 0;
+        background-color:rgb(117, 117, 209) ;
+        border-radius: .3rem;
+        padding-top: .5rem;
+    }
+    .NavgroupDiv>p{
+        font-family: cursive;
+        font-size: .6rem;
+    }
+    .NavDiv{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 1rem;
+        margin-left: .2rem;
+        margin-bottom: 1.5rem;
+        color: white;
+    }
+    .NavDiv:hover{
+        border-radius: .3rem;
+        margin-left: 0;
+        margin-right: 0;
+        background-color: rgb(117, 117, 209);
+        padding-top: .5rem;
+    }
+    .NavDiv>p{
+        font-size: .8rem;
+    }
+    .NavProfileImage{
+        width: 2rem;
+        height: 1.5rem;
+    }
+    .NavProfileDiv{
+        margin-top: 50%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        font-family: cursive;
+        font-size: .7rem;
+    }
+    .NavProfileDiv:hover{
+        border-radius: .3rem;
+        margin-left: 0;
+        margin-right: 0;
+        background-color: rgb(117, 117, 209);
+        padding-top: .5rem;
+    }
+    .NavProfileDiv>div>p{
+        margin-left: 1rem;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .NavImages{
+        width: 2.5rem;
+        height: 2rem;
+        margin-right:1rem ;
+        color: white;
+        border-radius: .4rem;
+        margin-top: .4rem;
+    }
+    .NavgroupDiv{
+        display: flex;
+        margin: 1rem;
+        color: white;
+    }
+    .NavgroupDiv:hover{
+        background-color: rgb(117, 117, 209);
+        border-radius: .5rem;
+        margin: 0;
+    }
+    .NavgroupDiv>p{
+        font-family: cursive;
+        font-size: .8rem;
+    }
+    .NavDiv{
+        display: flex;
+        margin: 1rem;
+        color: white;
+    }
+    .NavDiv:hover{
+        background-color: rgb(117, 117, 209);
+        margin-left: 0;
+        margin-right: 0;
+        border-radius: .7rem;
+    }
+    .NavProfileImage{
+        width: 2.5rem;
+        height: 2rem;
+        border-radius: .4rem;
+        color: white;
+        margin-right: 1rem;
+        margin-top: .2rem;
+    }
+    .NavProfileDiv{
+        margin: 1rem;
+        margin-top: 50%;
+        display: flex;
+        align-items: center;
+        font-family: cursive;
+        color: white;
+        font-size: .8rem;
+    }
+    .NavProfileDiv:hover{
+        background-color: rgb(117, 117, 209);
+        margin-left: 0;
+        margin-right: 0;
+        border-radius: .5rem;
+    }
+}

@@ -1,0 +1,28 @@
+@media screen and (max-width:768px) {
+    #Container{
+        display: flex;
+        margin: auto;
+    }
+    #NavContainer{
+        width: 17%;
+        background-color: rgb(0, 0, 82);
+    }
+    #MainContainer{
+        width: 83%;
+        background-color: rgb(232, 233, 233);
+    }
+}
+@media screen and (min-width:768px) {
+    #Container{
+        display: flex;
+        margin: auto;
+    }
+    #NavContainer{
+        width: 20%;
+        background-color: rgb(0, 0, 82);
+    }
+    #MainContainer{
+        width: 80%;
+        background-color: rgb(232, 233, 233);
+    }
+}
